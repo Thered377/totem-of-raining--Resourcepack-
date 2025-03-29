@@ -1,4 +1,4 @@
 {
-    "death.attack.using.totem_of_raining": "%1$s\ died as a tribute.",
-    "death.attack.using.totem_of_raining.player": "%1$s\ died as a tribute wihle fighting %2$s."
+    "death.attack.using.totem_of_raining": "%1$s died as a tribute.",
+    "death.attack.using.totem_of_raining.player": "%1$s died as a tribute while fighting %2$s."
 }
